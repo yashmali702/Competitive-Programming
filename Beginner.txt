@@ -185,6 +185,9 @@ Solution :
 16. Write a function that return the Factorial of given number n.
 Solution : 
 
+n! = n * (n – 1)!
+n! = 1 if n = 0 or n = 1
+
 17. Print the following pattern without using print in-built function.
 i.      ii.     iii.
 ***     123     321
@@ -204,3 +207,4 @@ Solution :
 
 21. Return first, middle & last element of array.
 Solution : 
+
